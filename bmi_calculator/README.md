@@ -1,5 +1,5 @@
 # bmi_calculator
 
-BMI Calculator project.
+BMI Calculator Project.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
