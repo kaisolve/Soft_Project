@@ -1,6 +1,11 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:bmi_calculator/calculator_brain.dart'; // your project structure
 
+// unit tests for app methods :
+// calculateBMI
+// getResult
+// getInterpretation
+
 void main() {
   group('CalculatorBrain', () {
     test('calculateBMI works correctly', () {
