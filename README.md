@@ -1,2 +1,2 @@
 # Soft_Project
- money tracker project for software engineering 2
+ Bmi Calculator project for software engineering 2
